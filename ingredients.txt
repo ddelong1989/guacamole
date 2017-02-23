@@ -2,7 +2,7 @@ avocados
 lime
 onion
 garlic salt
-tomatoe
+tomatoes
 cilantro
 jalepeno
 
